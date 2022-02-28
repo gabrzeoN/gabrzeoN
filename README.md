@@ -2,11 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%235A3DF7&size=23&lines=%F0%9F%92%BB+Hi+there!+I'm+a+Developer!;Welcome+to+my+Github+profile!">
 </p>
 
-<h3> 🧩 &nbsp;About me </h3>
+<h3> &nbsp;About me </h3>
 
 <!-- - 🗿 &nbsp; Full-time student.   -->
+Hello there, my name is Gabriel! I got into the technology world when I was 18 years old and became a passionate person about it, therefore, it's not in my plans to quit being a software developer any time soon  :)
 - 🎓 &nbsp; Computer Engineering Undergraduate at <a href="http://www.feitep.edu.br/">Faculdade de Engenharia e Inovação Técnico Profissional (FEITEP)</a>
 - 🖥 &nbsp; Currently in a Full-Stack Web Dev Bootcamp by <a href="https://www.driven.com.br/">Driven Education</a>
+
+If there is anything I could help you with, please, let me know!
 
 <h3> &nbsp;Technologies</h3>
 
