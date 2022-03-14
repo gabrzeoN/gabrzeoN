@@ -33,7 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original
 <h3>📩 &nbsp;Get in touch</h3> 
 
 <p align="left">
-  <a href="https://www.instagram.com/gabzeoN">
+  <a href="https://www.instagram.com/gabzeon">
     <img alt="Abhishek's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   &nbsp;
