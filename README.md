@@ -7,14 +7,14 @@
 <!-- - 🗿 &nbsp; Full-time student.   -->
 Hello there, my name is Gabriel! I got into the technology world when I was 18 years old and became a passionate person about it, therefore, it's not in my plans to quit being a software developer any time soon  :)
 - 🎓 &nbsp; Computer Engineering Undergraduate at <a href="http://www.feitep.edu.br/">Faculdade de Engenharia e Inovação Técnico Profissional (FEITEP)</a>
-- 🖥 &nbsp; Currently in a Full-Stack Web Dev Bootcamp by <a href="https://www.driven.com.br/">Driven Education</a>
+- 🖥 &nbsp; Graduated in a Full-Stack Web Dev Bootcamp by <a href="https://www.driven.com.br/">Driven Education</a>
 
 If there is anything I could help you with, please, let me know!
 
-<h3> &nbsp;Technologies</h3>
+<!-- <h3> &nbsp;Technologies</h3>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40"/> <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="40"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="40"/> -->
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrzeoN&theme=tokyonight&show_icons=true&layout=default&langs_count=4" height="160px", width="400px" />
